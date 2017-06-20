@@ -3,24 +3,24 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-20 09:44-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2017-06-20 09:45-0300\n"
+"PO-Revision-Date: 2017-06-20 09:57-0300\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:59
 msgid "house"
-msgstr ""
+msgstr "casa"
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:60
 msgid "mouse"
@@ -28,16 +28,16 @@ msgstr ""
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:61
 msgid "Automatic"
-msgstr ""
+msgstr "Automático"
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:62
 msgid "Completion"
-msgstr ""
+msgstr "Conclusão"
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:67
 #, java-format
 msgid "House Nr. {0} "
-msgstr ""
+msgstr "Casa n º. {0} "
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:68
 #, java-format
@@ -128,8 +128,8 @@ msgstr[1] ""
 #, java-format
 msgid "Foo {0} "
 msgid_plural "Foos {0}"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Foo {0}"
+msgstr[1] "Foo {0}"
 
 #: src/test/org/xnap/commons/i18n/I18nTest.java:195
 #: src/test/org/xnap/commons/i18n/I18nFactoryTest.java:67
