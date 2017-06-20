@@ -10,8 +10,7 @@ INTRODUCTION
  plural handling, and build process integration through Maven.
 
  A tutorial that describes how to use the Gettext Commons is available
- at http://code.google.com/p/gettext-commons/wiki/Tutorial .
-
+ at [xdocs/tutorial.md](xdocs/tutorial.md) .
 
 REQUIREMENTS
 
@@ -20,7 +19,7 @@ REQUIREMENTS
 
 DEVELOPMENT
 
- Apache Maven 2.0 can be used to build the Gettext Commons.
+ Apache Maven 2.0+ can be used to build the Gettext Commons.
 
 
 COPYRIGHT

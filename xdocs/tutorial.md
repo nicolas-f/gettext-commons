@@ -1,4 +1,4 @@
-#Tutorial
+# Tutorial
 
 ## Overview
 
@@ -99,7 +99,7 @@ public class SampleClass
 	        localizedString = i18n.tr("Hello, World");
 	}
 }
-
+```
 
 [I18nManager](http://xnap-commons.sourceforge.net/gettext-commons/apidocs/org/xnap/commons/i18n/I18nManager.html)
 
