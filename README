@@ -10,7 +10,7 @@ INTRODUCTION
  plural handling, and build process integration through Maven.
 
  A tutorial that describes how to use the Gettext Commons is available
- at http://code.google.com/p/gettext-commons/wiki/Tutorial .
+ at https://github.com/jgettext/gettext-commons/wiki/Tutorial .
 
 
 REQUIREMENTS
